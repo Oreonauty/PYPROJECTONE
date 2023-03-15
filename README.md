@@ -1,3 +1,4 @@
-# TEST
+# first attempt of a terminal game
 
-here we have some text
+Idea:
+    walk throu easy labyrinth to a goal
